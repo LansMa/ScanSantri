@@ -38,6 +38,9 @@ dependencies:
   firebase_core: ^2.15.1
   firebase_auth: ^4.9.1 # Opsional
   cloud_firestore: ^4.8.3
+  mobile_scanner: ^7.0.0 # Ganti barcode_scan2 dengan ini
+  intl: ^0.18.1
+  qr_flutter: ^4.1.0 # Tetap dipake kalo butuh generate QR
 
 dev_dependencies:
   flutter_test:
